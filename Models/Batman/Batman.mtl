@@ -1,0 +1,31 @@
+newmtl Model001_Material001
+map_Kd T_M_MED_BlackMonday_Houston_Cape_T1_D.png
+map_bump T_M_MED_BlackMonday_Houston_Cape_T1_N.png
+
+newmtl Model001_Material002
+map_Kd T_M_MED_BlackMonday_Houston_Cape_T1_D.png
+map_bump T_M_MED_BlackMonday_Houston_Cape_T1_N.png
+
+newmtl Model001_Material003
+map_Kd T_M_MED_BlackMonday_Houston_Body_D.png
+map_bump T_M_MED_BlackMonday_Houston_Body_N.png
+
+newmtl Model001_Material004
+map_Kd T_M_MED_BlackMonday_Houston_Body_D.png
+map_bump T_M_MED_BlackMonday_Houston_Body_N.png
+
+newmtl Model001_Material005
+map_Kd T_M_MED_BlackMonday_Houston_Body_D.png
+map_bump T_M_MED_BlackMonday_Houston_Body_N.png
+
+newmtl Model001_Material006
+map_Kd T_M_MED_BlackMonday_Houston_Head_D.png
+
+newmtl Model001_Material007
+map_Kd T_M_MED_BlackMonday_Houston_Head_D.png
+map_bump T_M_MED_BlackMonday_Houston_Head_N.png
+
+newmtl Model001_Material008
+map_Kd T_M_MED_BlackMonday_Houston_FaceAcc_D.png
+map_bump T_M_MED_BlackMonday_Houston_FaceAcc_N.png
+
