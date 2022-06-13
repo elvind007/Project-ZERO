@@ -18,9 +18,9 @@
 - ## Run the program
   - First, copy the camera intrinsic matrix and distortion coefficient to replace corresponding paramaters [AR_entrance.py]
   - Second, run the [AR_entrance.py] and you can change models which are saved in [Models] directory.
-  - Third, you can press **'+'** or **'-'** to scale the model size as video shows.
+  - Third, you can press **'+'** or **'-'** to scale the model size (**not working!!!**)
   - Note: you can generating the aruco mark by your self on [aruco generator](http://chev.me/arucogen/)
 
 
-  - **If you like it please give me a star and fork it :) :)**
+  - **If you like it please give me a star and fork it :)**
   
