@@ -6,7 +6,7 @@
        ```
        pip install -r requirements.txt
        ```
-        - Second, you should install opengl and pygame(which used to load textures) in your python environment. There I have provided the corresponding libs in [ExternalConfig]() folder, you can copy them to your python env and directly install e.g
+        - Second, you should install opengl and pygame(which used to load textures) in your python environment. There I have provided the corresponding libs in [ExternalConfig] folder, you can copy them to your python env and directly install e.g
         ```
         python -m pip --user pygame-1.9.6-cp37-cp37m-win_amd64.whl
         ```
