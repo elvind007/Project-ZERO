@@ -261,5 +261,5 @@ if __name__ == "__main__":
 
     dist_coeff = np.array([-8.85446494e-03, -2.18737507e-01,  1.07378179e-03,  2.59987022e-03 ,1.11213479e+00])
     #dist_coeff = np.array([ 2.84542709e-01, -1.92052859e+00,  1.35772811e-05, -7.62765800e-04, 4.00245238e+00])
-    ar_instance = AR_render(cam_matrix, dist_coeff, './Models/Batman/Batman.obj', model_scale = 0.04)
+    ar_instance = AR_render(cam_matrix, dist_coeff, './Models/Sphere/sphere.obj', model_scale = 0.04)
     ar_instance.run() 
